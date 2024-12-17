@@ -1,1 +1,2 @@
-hello javascript
+let a = 10;
+
